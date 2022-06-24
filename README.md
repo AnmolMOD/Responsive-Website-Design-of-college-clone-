@@ -1,2 +1,2 @@
-# Responsive-Website-Design-of-college-clone-
+# ResponsiveWebsiteDesignOfCollegeClone
 Responsive Website Designing (RWD) for your college
